@@ -11,8 +11,9 @@ export default function Rotas(){
             <Routes>
                 <Route path={"/"} element={<Main/>}/>
                 <Route path={"/sobre"} element={<Sobre/>}/>
-              <Route path={'/vagas/:vagas'} element={<Vagas/>}/>
+              <Route path={'/vagas'} element={<Vagas/>}/>
             </Routes>
+
         </BrowserRouter>
 
 

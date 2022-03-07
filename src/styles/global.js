@@ -15,7 +15,7 @@ html, body, #root {
 body {
     background: linear-gradient(180deg, #19867A 0%, rgba(16, 221, 209, 0.182292) 83.45%, rgba(46, 132, 127, 0) 99.48%);
     font-size: 14px;
-  position: absolute;
+    position: absolute;
     -webkit-font-smoothing: antialiased !important;
 }
 
